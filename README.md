@@ -30,14 +30,14 @@
 
 ## ✨ Anime Vibes  
 
-<img src="https://media1.tenor.com/m/jYIMmWuMI1UAAAAd/jujutsu-kaisen-gojo-gojo-satoru.gif" width="80">  
-*Gojo Satoru (Jujutsu Kaisen)*  
+<img src="https://media.giphy.com/media/cruO3FTeoAxjiTVxPW/giphy.gif" width="50" alt="Gojo Satoru (Jujutsu Kaisen)" />
+<br/><sub>*Gojo Satoru — Jujutsu Kaisen*</sub>
 
-<img src="https://tenor.com/view/jujutsu-kaisen-itadori-yuji-gif-22212344.gif" width="80"> 
-*Itadori Yuji (Jujutsu Kaisen)*  
+<img src="https://media.giphy.com/media/CJzENEdYpti0plwyKT/giphy.gif" width="50" alt="Itadori Yuji (Jujutsu Kaisen)" />
+<br/><sub>*Itadori Yuji — Jujutsu Kaisen*</sub>
 
-<img src="https://tenor.com/view/tanjiro-demon-slayer-gif-24646028.gif" width="80">
-*Tanjiro Kamado (Kimetsu no Yaiba)*  
+<img src="https://media.giphy.com/media/UasWOtuIztid5ioRta/giphy.gif" width="50" alt="Tanjiro Kamado (Demon Slayer)" />
+<br/><sub>*Tanjiro Kamado — Demon Slayer*</sub>
 
 ---
 
