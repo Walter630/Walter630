@@ -30,17 +30,17 @@
 
 ## ✨ Anime Vibes  
 
-<img src="https://media.giphy.com/media/0vh6ubpKJ0Tn3RDop0/giphy.gif" width="120">  
+<img src="https://media1.tenor.com/m/jYIMmWuMI1UAAAAd/jujutsu-kaisen-gojo-gojo-satoru.gif" width="80">  
 *Gojo Satoru (Jujutsu Kaisen)*  
 
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="120">  
+<img src="https://tenor.com/view/jujutsu-kaisen-itadori-yuji-gif-22212344.gif" width="80"> 
 *Itadori Yuji (Jujutsu Kaisen)*  
 
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="120">  
+<img src="https://tenor.com/view/tanjiro-demon-slayer-gif-24646028.gif" width="80">
 *Tanjiro Kamado (Kimetsu no Yaiba)*  
 
 ---
 
 ## 🌎 Onde me encontrar  
 - 💼 [LinkedIn](https://linkedin.com/in/SEU-LINK)  
-- 📧 Email: SEU-EMAIL  
+- 📧 Email: jwneto277@gmail.com // walterro465@gmail.com  
