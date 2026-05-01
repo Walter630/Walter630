@@ -2,7 +2,7 @@
 
 **Desenvolvedor Full Stack | Análise e Desenvolvimento de Sistemas (IF Tabuleiro do Norte - CE)**
 
-Sou um desenvolvedor apaixonado por criar aplicações web modernas, seguras e escaláveis. Tenho um forte compromisso com **boas práticas, Clean Code e arquitetura de software**, buscando sempre [...]
+Sou um desenvolvedor apaixonado por criar aplicações web modernas, seguras e escaláveis. Tenho um forte compromisso com **boas práticas, Clean Code e arquitetura de software**, buscando sempre melhorar como dev.
 
 Trânsito com facilidade tanto no desenvolvimento de interfaces intuitivas e acessíveis quanto na construção de APIs robustas, microsserviços e integrações complexas no back-end.
 
@@ -11,7 +11,7 @@ Trânsito com facilidade tanto no desenvolvimento de interfaces intuitivas e ace
 *   **Front-end:** Criação de interfaces responsivas e focadas na experiência do usuário utilizando **HTML, CSS, JavaScript, Tailwind CSS e Vue**.
 *   **Back-end:** Desenvolvimento de regras de negócio e APIs utilizando múltiplos ecossistemas, incluindo **Java 21 (Spring Boot)** e **TypeScript (NestJS)**.
 *   **Banco de Dados & Dados Geoespaciais:** Modelagem, integração e otimização de bancos relacionais (**SQL**) e não-relacionais (**MongoDB**).
-*   **Arquitetura & Boas Práticas:** Implementação de microsserviços, mensageria e processamento assíncrono (**RabbitMQ**), design patterns e padrões de repositório para garantir sistemas m[...]
+*   **Arquitetura & Boas Práticas:** Implementação de microsserviços, mensageria e processamento assíncrono (**RabbitMQ**), design patterns e padrões de repositório para garantir sistemas melhor desenvolvido.
 
 ### 🔭 Foco Atual e Projetos
 
@@ -64,5 +64,6 @@ Trânsito com facilidade tanto no desenvolvimento de interfaces intuitivas e ace
   </a>
 
 </div>
+
 ---
 *Em constante busca por aprendizado e pela construção de soluções de alto valor.*
