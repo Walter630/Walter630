@@ -1,4 +1,4 @@
-# Olá, eu sou Rodrigo Costa! 👋
+# Olá, me chamo Jose Walter de Almeida! 👋
 
 **Desenvolvedor Full Stack | Análise e Desenvolvimento de Sistemas (IF Tabuleiro do Norte - CE)**
 
