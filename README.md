@@ -20,20 +20,22 @@ Trânsito com facilidade tanto no desenvolvimento de interfaces intuitivas e ace
 *   Estudo contínuo em estruturas de dados, algoritmos avançados e novas tendências tecnológicas do mercado.
 
 ### 🛠️ Minha Stack Principal
+<!-- Front-end -->
+![](https://img.shields.io/badge/-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![](https://img.shields.io/badge/-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<!-- Back-end -->
+![](https://img.shields.io/badge/-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+<!-- Banco de Dados e Mensageria -->
+![](https://img.shields.io/badge/-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ### 📈 Estatísticas do GitHub
 
@@ -42,5 +44,25 @@ Trânsito com facilidade tanto no desenvolvimento de interfaces intuitivas e ace
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walter630&layout=compact&langs_count=7&theme=radium"/>
 </div>
 
+### 📫 Como me encontrar
+
+<div align="left">
+  
+  <!-- Substitua "SEU_LINKEDIN" pelo seu usuário -->
+  <a href="https://linkedin.com/in/José Walter" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <!-- Substitua pelo seu email -->
+  <a href="mailto:walterro465@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+
+  <!-- Se quiser adicionar WhatsApp, substitua "SEUNUMERO" (ex: 5511999999999) -->
+  <a href="https://wa.me/" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+
+</div>
 ---
 *Em constante busca por aprendizado e pela construção de soluções de alto valor.*
